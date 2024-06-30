@@ -1,0 +1,111 @@
+.navbar {
+    padding: 0;
+    transition: all 0.3s ease;
+  }
+  
+  .navbar-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .navbar-brand {
+    padding: 10px 15px;
+    height: auto;
+    margin-right: auto; /* Push logo to the left */
+  }
+  
+  .logo {
+    max-width: 80px;
+    height: auto;
+  }
+  
+  .navbar-toggle {
+    margin: 13px 15px;
+    padding: 9px 10px;
+    border: none;
+    background-color: transparent;
+    order: 2; /* Push toggle button to the right */
+  }
+  
+  .navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background-color: #333;
+    transition: all 0.3s ease;
+    margin: 4px 0;
+  }
+  
+  .navbar-toggle.active .icon-bar:nth-child(2) {
+    transform: rotate(45deg) translate(5px, 5px);
+  }
+  
+  .navbar-toggle.active .icon-bar:nth-child(3) {
+    opacity: 0;
+  }
+  
+  .navbar-toggle.active .icon-bar:nth-child(4) {
+    transform: rotate(-45deg) translate(5px, -5px);
+  }
+  
+  .navbar-collapse {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-nav {
+    margin: 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-nav > li > a {
+    padding: 20px 15px;
+  }
+  
+  @media (max-width: 768px) {
+    .navbar-collapse {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background-color: #fff;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease;
+    }
+  
+    .navbar-collapse.show {
+      max-height: 500px;
+    }
+  
+    .navbar-nav {
+      flex-direction: column;
+      width: 100%;
+    }
+  
+    .navbar-nav > li {
+      width: 100%;
+    }
+  
+    .navbar-nav > li > a {
+      padding: 15px;
+      border-bottom: 1px solid #eee;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .navbar-toggle {
+      display: none;
+    }
+  
+    .navbar-collapse {
+      display: flex !important;
+      height: auto !important;
+      padding-bottom: 0;
+      overflow: visible !important;
+    }
+  }
