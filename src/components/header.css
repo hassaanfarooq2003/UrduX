@@ -1,0 +1,10 @@
+.btn-custom-black {
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.btn-custom-black:hover, .btn-custom-black:focus {
+    background-color: white;
+    color: black;
+}

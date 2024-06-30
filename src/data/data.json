@@ -1,66 +1,68 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
-  },
+    "title": "Welcome",
+     "paragraph": "\"Learning another language is like becoming another person\" - Haruki Murakami. We work on Neural Machine Translations."
+      },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "UrduX main objective is to democratize access to AI, disrupting traditional business methods by enhancing their impact on a larger scale. UrduX aims to empower communities and businesses to develop multilingual AI-driven solutions for text, audio, images, and videos. We envision a world where language is not a barrier.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "natural language processing",
+      "research",
+      "machine learning",
+      "data science"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "machine translation",
+      "chatbots",
+      "conversational agent",
+      " deep learning",
+       "artificial intelligence",
+      "generative AI"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Urud Chat Bot ",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "UrduSiri",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Urdu Embedding Evaluation",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Thesis Revolution: Breaking Gender Barriers",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Legal Bot",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Herd Help",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Tech Tutor",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "DubLingo",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "AI: The Power of Prompt-Tuning",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
@@ -68,33 +70,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Thesis Revolution: Breaking Gender Barriers",
+      "text": "Project by Shahryar Akbar Supervised by Dr. Mehreen Alam where we've tackled gender bias in AI-generated images! "
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Legal Bot ",
+      "text": "Pakistan's Legal Family QA System! This chat system, fine-tuned on the LLaMA 2 chat model, aims to make family law more accessible to everyone. In this video, you'll see how effortlessly the system handles different prompts, providing clear, accurate answers. This tool represents a significant step forward in using AI to bridge the gap in legal assistance. "
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Herd Help ",
+      "text": "Introducing our MVP, HerdHelp, designed to support local livestock farmers in Pakistan with AI-driven insights and assistance. Huge thanks to our supervisor Mehreen Alam, and our amazing team members Ahmed Warraich, Ahmad Munir and Muhammad Usman for their dedication and hard work. Check out the demo to see how we're revolutionizing livestock management! "
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Tech Tutor",
+      "text": "We've harnessed the power of STT, LLM, TTS and innovative lip synching technologies to create an innovative learning platform that adapts to each individual's needs."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "DubLingo",
+      "text": "Breaking Boundaries with \" DubLingo \": Experience the seamless transition of an Urdu Video into English and Arabic."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "AI: The Power of Prompt-Tuning",
+      "text": "Managing unstructured data can be daunting. That's where \"vector embeddings\" come into play, making data more manageable. While prompt-tuning can seem complex, vendors are working on user-friendly solutions. Having data science expertise helps."
     }
   ],
   "Testimonials": [
@@ -132,53 +134,53 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Dr Mehreen Alam",
+      "job": "Lead DataScientist"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Ahmed Affan",
+      "job": "Research Assistant"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Hadeer Mohamed Hassan Mahmoud",
+      "job": "Intern"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Danyal Memon",
+      "job": "NLP Engineer"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Located in FAST NUCES in H -11, Islamabad , Pakistan",
+    "phone": "111-128-128",
+    "email": "mehreen.alam@nu.edu.pk",
+    "facebook": "https://www.facebook.com/FastNUIslamabadOfficial?_rdc=1&_rdr",
+    "twitter": "https://twitter.com/FastNU_Official",
+    "linkedin": "https://www.linkedin.com/company/urdux/?originalSubdomain=pk"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Urdu Chat Bot",
+      "text": "One of our project is Urdu chatbot that can engage with users and have chat with them related general knowledge of Pakistan"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Video Translation",
+      "text": "Breaking Boundaries with \" DubLingo \": Experience the seamless transition of an Urdu Video into English and Arabic."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
+      "title": "Urdu Embedding Evaluation",
+      "text": " Our project to evaluate the embeddings created for Urdu and Roman Urdu"
+      },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "UrduSiri",
+      "text": "One of our project was Urdu Siri which worked for desktop system applications. Managing that in Urdu was full filling the gap in research market."
     }
   ]
 }
